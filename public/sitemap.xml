@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+
+      <loc>http://piqtune.com/main/best</loc>
+
+      <changefreq>daily</changefreq>
+
+      <priority>1</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://piqtune.com/main/new</loc>
+
+      <changefreq>hourly</changefreq>
+
+	  <priority>1</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://piqtune.com/info/help</loc>
+
+      <changefreq>weekly</changefreq>
+
+	  <priority>0.5</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://piqtune.com/info/index</loc>
+
+      <priority>0.3</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://piqtune.com/info/contacts</loc>
+
+      <priority>0.3</priority>
+
+   </url>
+
+</urlset>

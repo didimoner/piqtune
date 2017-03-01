@@ -1,0 +1,20 @@
+User-agent: Yandex
+Disallow: /audio
+Disallow: /ext
+Disallow: /images
+Disallow: /fonts
+
+User-agent: Googlebot
+Disallow: /audio
+Disallow: /ext
+Disallow: /images
+Disallow: /fonts
+
+User-agent: *
+Crawl-delay: 30
+Disallow: /audio
+Disallow: /ext
+Disallow: /images
+Disallow: /fonts
+
+Sitemap: http://piqtune.com/sitemap.xml
